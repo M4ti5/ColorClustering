@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Jv6FA3MVB99+XP+3s7xGDUTQOaJ4vqYduvtN1+0rUvAWhIwSeEszpUvAlOFIX8s9U/31dj4tjKIBNjmaN8C0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\C#\\ColorClustering\\GUI\\GUIColorClustering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matis_CAFFIAUX\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Matis_CAFFIAUX\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Matis_CAFFIAUX\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
